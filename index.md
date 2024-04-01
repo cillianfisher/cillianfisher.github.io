@@ -1,8 +1,10 @@
 ## About Me
 
-What's up? hey\|you
+Hello! My name is Cillian Fisher.
 
-I am an awesome student at Lehigh, you should hire me!
+I am currently pursuing my Bachelor of Science (BS) in Finance at Lehigh University’s School of Business, finishing my undergrad in the Spring of 2024. I am highly motivated with excellent communication and organization skills and a passion for business. Additionally, I have strong decision making and analytical skills and am excited to showcase them in my future career.
+
+I plan to pursue a 1 year MS in Business Analytics at Lehigh University after completing my bachelors degree this year. By doing so, I'll be able to enhance my understanding of analytical tools and their application to the business world.
 
 <!-- Upload your own photo and change the path -->
 
@@ -54,8 +56,11 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+Some of my hobbies include:
+- Golf
+- Travel
+- Music
+- Drawing
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
