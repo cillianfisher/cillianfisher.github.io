@@ -48,9 +48,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+Based on my time at Lehigh as well as my experience workign at Northwestern Mutual, I have a general idea of what I'd like to do in my career. This Summer, I'll be interning at a startup at the NASDAq Center in San Francisco, where I'll be working as a brand equity intern at a startup named 'The AutoNinjas'. 
 
-Sell yourself!
+I believe that through my past experiences as well as the experiences I am going to have, I'm capable of being in a role that combines a financial role with an emphasis on business analytics. 
 
 ---
 
