@@ -9,7 +9,7 @@ I plan to pursue a 1 year MS in Business Analytics at Lehigh University after co
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src=""/images/1677094933424.jpg?raw=true" " width="50%">
 </p>
 
 ---
