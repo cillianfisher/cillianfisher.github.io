@@ -26,14 +26,31 @@ In this project, I analyze the sentiment of S&P 500 companies' 10-K filings to p
 
 I began by collecting the S&P 500 company data as well as 10-K filings
 
-
 ```python
 sp500_file = 'inputs/sp500_2022.csv'
 if not os.path.exists(sp500_file):
     url = 'https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1130173030'
     pd.read_html(url)[0].to_csv(sp500_file, index=False)
 sp500 = pd.read_csv('inputs/sp500_2022.csv')
+```
 
+For sentiment analysis, I chose 3 topics of interest  to match specific financial sentiment terms within the filings. Here I was aiming to quantify positive and negative sentiments:
+
+```python
+sec_filings_dir = '10k_files/sec-edgar-filings'
+topic3_regex = r'(climate change|global warming|carbon emissions|...'
+formatted_BHR_negative_regex = [...]
+near_regex_pattern = re.compile([...])
+```
+
+I merged date and ticker with sentiment scores, matching them to returns on their filing date:
+
+```python
+dates_df = pd.read_csv('output/correct_dates.csv')
+sp500_df = pd.read_csv('sp500_2022.csv')
+merged_df = pd.merge(dates_df, sp500_df[['CIK', 'Symbol']], on='CIK', how='left')
+merged_df.to_csv('output/tickers_dates.csv', index=False)
+```
 
 The screenshots below show the correlation between several positive and negative sentiment dictionaries and 10-k filings.
 
