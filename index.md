@@ -24,6 +24,20 @@ _**[Data Science Project Using 10-k Filings](report.md)**_
 
 In this project, I analyze the sentiment of S&P 500 companies' 10-K filings to predict stock price movements. By quantifying positive and negative sentiments, I explore their correlation with market performance. This approach aims to offer investors a novel tool for informed decision-making based on textual analysis of corporate disclosures.
 
+I began by collecting the S&P 500 company data as well as 10-K filings
+
+'''python
+sp500_file = 'inputs/sp500_2022.csv'
+if not os.path.exists(sp500_file):
+    url = 'https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1130173030'
+    pd.read_html(url)[0].to_csv(sp500_file, index=False)
+sp500 = pd.read_csv('inputs/sp500_2022.csv')
+'''
+
+
+
+
+
 The screenshots below show the correlation between several positive and negative sentiment dictionaries and 10-k filings.
 
 
