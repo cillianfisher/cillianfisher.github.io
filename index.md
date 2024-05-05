@@ -59,23 +59,12 @@ The screenshots below show the correlation between several positive and negative
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[First Python Assignment](asgn01exercises.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+I wanted to use this first assignment as a mark of my progression in just 3-4 months of coding. Having going from very straighforward code such as printing 'hello world', to a full on data sciecne project that I showcased above, it highlights both the effort and willingless I have to improve my coding abilities.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/asgn01.png?raw=true"/>
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
