@@ -70,7 +70,7 @@ I wanted to use this first assignment as a mark of my progression in just 3-4 mo
 
 ## Career Objectives
 
-Based on my time at Lehigh as well as my experience workign at Northwestern Mutual, I have a general idea of what I'd like to do in my career. This Summer, I'll be interning at a startup at the NASDAq Center in San Francisco, where I'll be working as a brand equity intern at a startup named 'The AutoNinjas'. 
+Based on my time at Lehigh as well as my experience interning at Northwestern Mutual, I have a general idea of what I'd like to do in my career. This Summer, I'll be interning at a startup at the NASDAq Center in San Francisco, where I'll be working as a brand equity intern at a startup named 'The AutoNinjas'. 
 
 I believe that through my past experiences as well as the experiences I am going to have, I'm capable of being in a role that combines a financial role with an emphasis on business analytics. 
 
@@ -83,6 +83,7 @@ Some of my hobbies include:
 - Travel
 - Music
 - Drawing
+  
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
