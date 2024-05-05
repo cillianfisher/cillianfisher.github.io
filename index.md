@@ -26,7 +26,7 @@ In this project, I analyze the sentiment of S&P 500 companies' 10-K filings to p
 
 I began by collecting the S&P 500 company data as well as 10-K filings
 
-'''python
+python'''
 sp500_file = 'inputs/sp500_2022.csv'
 if not os.path.exists(sp500_file):
     url = 'https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1130173030'
