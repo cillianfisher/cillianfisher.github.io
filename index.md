@@ -19,9 +19,11 @@ I plan to pursue a 1 year MS in Business Analytics at Lehigh University after co
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Data Science Project Using 10-k Filings](report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+
+In this project, I analyze the sentiment of S&P 500 companies' 10-K filings to predict stock price movements. By quantifying positive and negative sentiments, I explore their correlation with market performance. This approach aims to offer investors a novel tool for informed decision-making based on textual analysis of corporate disclosures.
+
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
